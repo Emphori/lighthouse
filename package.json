@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "harass": "0.0.1",
-    "impede": "0.0.2",
+    "impede": "0.0.3",
     "needle": "^2.2.4",
     "taint": "0.0.1"
   },
