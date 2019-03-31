@@ -12,6 +12,6 @@
     "taint": "0.0.1"
   },
   "devDependencies": {
-    "typescript": "^3.3.3333"
+    "typescript": "^3.3.4000"
   }
 }
