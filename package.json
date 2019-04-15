@@ -8,10 +8,10 @@
   "dependencies": {
     "harass": "0.0.1",
     "impede": "0.0.3",
-    "needle": "^2.2.4",
+    "needle": "^2.3.0",
     "taint": "0.0.1"
   },
   "devDependencies": {
-    "typescript": "^3.4.2"
+    "typescript": "^3.4.3"
   }
 }
